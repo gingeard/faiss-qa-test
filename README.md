@@ -20,7 +20,7 @@ The script accomplishes the following general steps:
 ### Install requirements
 ```bash
 python -m venv faiss-qa-venv
-source faiss-qa/bin/activate
+source faiss-qa-venv/bin/activate
 pip install -r requirements.txt
 ```
 
