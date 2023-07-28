@@ -35,5 +35,7 @@ You can obtain the API key from the [OpenAI API keys page](https://platform.open
 ```plain
 $ python faiss-qa.py   # input = "I forgot my password."
 
-If you forgot your password, you can reset it by clicking on the 'Forgot Password?' link on the login page. Enter your email address, and we will send you instructions on how to reset your password. For more information, please refer to this link: https://example.com/confluence/recover-password.
+If you forgot your password, you can reset it by clicking on the 'Forgot Password?' link
+on the login page. Enter your email address, and we will send you instructions on how to reset
+your password. For more information, please refer to this link: https://example.com/confluence/recover-password.
 ```
